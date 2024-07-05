@@ -12,7 +12,7 @@ To run this project locally, follow these steps:
 
     Clone the repository:
 
-    git clone https://github.com/your-username/calculator.git
+    git clone https://github.com/anandude/Swing_Calculator.git
 
     Open the project in Eclipse:
         Launch Eclipse IDE.
